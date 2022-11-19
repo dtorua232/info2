@@ -1,1 +1,1 @@
-{"DESKTOP-U2Q7DK6":{"date":4,"cmd":"ping"}}
+{"DESKTOP-U2Q7DK6":{"date":5008,"cmd":"cmdTimeout"}}

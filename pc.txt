@@ -1,1 +1,1 @@
-{"DESKTOP-U2Q7DK6":{"ip":"109.172.244.196","exp":"C:\\Users\\admin\\AppData\\Local\\Temp\\1885797852","status":"Online","last":"1668875206","newCmdTimeout":5000,"addition":"Run Exe"}}
+{"DESKTOP-U2Q7DK6":{"ip":"109.172.244.196","exp":"C:\\Users\\admin\\AppData\\Local\\Temp\\1792941765","status":"Online","last":"1668881181","newCmdTimeout":5000,"addition":""}}

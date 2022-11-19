@@ -1,1 +1,1 @@
-{"DESKTOP-U2Q7DK6":{"ip":"109.172.244.196","exp":"C:\\Users\\admin\\AppData\\Local\\Temp\\104328505","status":"Online","last":"1668874898","newCmdTimeout":5000,"addition":"Pong"}}
+{"DESKTOP-U2Q7DK6":{"ip":"109.172.244.196","exp":"C:\\Users\\admin\\AppData\\Local\\Temp\\1885797852","status":"Online","last":"1668875204","newCmdTimeout":5000,"addition":""}}

@@ -1,1 +1,1 @@
-{"DESKTOP-4P3I4ML":{"ip":"109.172.244.196","exp":"C:\\Users\\admin\\AppData\\Local\\Temp\\1033472025","status":"Online","last":"1670072926","newCmdTimeout":5000,"addition":"Run Exe-9"}}
+{"DESKTOP-4P3I4ML":{"ip":"109.172.244.196","exp":"C:\\Users\\admin\\AppData\\Local\\Temp\\475256099","status":"Online","last":"1670072952","newCmdTimeout":5000,"addition":"Run Exe-1"}}

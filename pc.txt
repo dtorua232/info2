@@ -1,1 +1,1 @@
-{"DESKTOP-4P3I4ML":{"ip":"23.254.36.47","exp":"C:\\Users\\admin\\AppData\\Local\\Temp\\1733245586","status":"Online","last":"1670992259","newCmdTimeout":5000,"addition":""}}
+{"DESKTOP-4P3I4ML":{"ip":"209.127.24.18","exp":"C:\\Users\\admin\\AppData\\Local\\Temp\\875995048","status":"Online","last":"1670992853","newCmdTimeout":5000,"addition":""}}
